@@ -1,3 +1,5 @@
 Mi nombre es Elena y soy alumna de 1º DAW semipresencial.
 Es la primera vez que estudio en el IES San Vicente y que curso este módulo.
 Siempre he tenido interés por las nuevas tecnologías, aunque mi trayectoria profesional hasta ahora haya sido totalmente diferente.
+
+![GithubIcon](img/github.png) 
